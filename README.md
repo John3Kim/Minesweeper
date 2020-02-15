@@ -12,6 +12,6 @@ Objective: Given a board of n by m dimensions, and a set number of mines, the ob
   [0,1,2]\
 0: 3 X X\
 1: X X X\
-2: X X X\
+2: X X X
 
 - You can see above that there are three mines surrounding the tile at (0,0).
